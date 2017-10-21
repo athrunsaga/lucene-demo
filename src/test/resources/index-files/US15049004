@@ -1,0 +1,4 @@
+an=US15049004
+ti=Car operating system
+ad=20160219
+ab=Our car operating system allows a car's driver to control—using abstract direction and speed commands—the car's core resources that make the car move. The car operating system then translates those high-level abstractions to a lower level of abstraction, providing device-specific commands to the car devices that will implement the driver's commands. That means that the same car operating system can work on a wide variety of car configurations. That differs from the control system for today's cars, which is hardwired into the car's design and lasts from the car's manufacture to its junking. Each model of today's car has a custom control system (steering wheel, accelerator, brake pedal) that cannot be replaced by the control system from another car, even though they do the same thing. Our car operating system allows car technology to evolve more rapidly and carmaking to become a more vibrant industry.
